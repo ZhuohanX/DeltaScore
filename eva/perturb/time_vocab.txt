@@ -1,0 +1,63 @@
+when 666|||WRB 666
+after 428|||IN 428
+never 276|||RB 276
+while 260|||IN 192|||NN 68
+then 255|||RB 255
+now 193|||RB 193
+before 173|||IN 158|||RB 13|||NN 2
+again 172|||RB 172
+always 159|||RB 159
+hours 128|||NNS 128
+week 120|||NN 120
+year 116|||NN 116
+late 101|||JJ 51|||RB 50
+days 97|||NNS 97
+years 94|||NNS 94
+once 74|||IN 8
+months 69|||NNS 69
+minutes 57|||NNS 57
+early 54|||RB 33|||JJ 21
+ever 51|||RB 51
+often 49|||RB 49
+hour 48|||NN 48
+month 45|||NN 45
+already 35|||RB 35
+past 26|||JJ 13|||NN 4
+minute 25|||NN 25
+forever 17|||RB 14
+ago 14|||RB 13|||IN 1
+current 8|||JJ 8
+seconds 7|||NNS 6|||VBZ 1
+beginning 7|||NN 5|||VBG 2
+someday 5|||NN 3|||RB 2
+whenever 5|||WRB 4|||NN 1
+previous 4|||JJ 4
+future 3|||NN 3
+delay 1|||NN 1
+centuries 149|||NNS 147|||VBZ 2
+lifetime 109|||NN 101|||JJ 8
+ages 90|||NNS 87|||VBZ 3
+previously 54|||RB 54
+temporary 44|||JJ 44
+sometime 43|||RB 35|||NN 4|||JJ 4
+simultaneously 40|||RB 40
+o'clock 35|||NN 34|||JJ 1
+era 34|||NN 34
+dusk 31|||NN 25|||VB 3|||VBN 1|||RB 1|||VBP 1
+anytime 28|||RB 22|||NN 4|||JJ 1|||VBZ 1
+perpetual 21|||JJ 21
+temporal 17|||JJ 17
+duration 14|||NN 14
+formerly 12|||RB 11|||JJ 1
+meantime 11|||NN 11
+leisure 11|||NN 11
+meanwhile 10|||RB 8|||NN 1|||FW 1
+timeless 10|||JJ 5|||NN 4|||RB 1
+ephemeral 9|||JJ 9
+daytime 7|||NN 5|||JJ 2
+yearly 7|||JJ 6|||RB 1
+contemporary 6|||JJ 5|||NN 1
+nightfall 5|||NN 2|||RB 1|||DT 1|||JJ 1
+dinnertime 3|||RB 1|||JJ 1|||NN 1
+teatime 2|||NN 1|||RB 1
+yesteryear 1|||NN 1

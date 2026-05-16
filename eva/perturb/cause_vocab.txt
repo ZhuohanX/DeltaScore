@@ -1,0 +1,18 @@
+so 622|||IN 198
+because 136|||IN 136
+why 47|||WRB 47
+reason 18|||NN 18
+result 13|||NN 13
+cause 5|||NN 2|||VB 1|||VBP 1|||VBZ 1
+caused 18|||VBD 15|||VBN 3
+causing 3|||VBG 3
+causes 3|||VBZ 3
+causal 4|||NN 4
+effect 1|||NN 1
+effects 7|||NNS 7
+therefore 5|||NN 2|||IN 2|||RB 1
+purpose 3|||NN 2|||VB 1
+aim 1|||NN 1
+sake 118|||NN 99|||VBP 17|||JJ 1|||NNS 1
+consequence 27|||NN 27
+since 68|||IN 68
